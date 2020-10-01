@@ -67,13 +67,13 @@ body {
 }
 @keyframes border {
     0% {border-color: var(--border); left:0px; top:0px;}
-    14.3% {border-color: red; left:0px; top:0px;}
-    28.6% {border-color: orange; left:0px; top:0px;}
-    42.9% {border-color: yellow; left:0px; top:0px;}
-    57.1% {border-color: green; left:0px; top:0px;}
-    71.4% {border-color: blue; left:0px; top:0px;}
-    85.7% {border-color: indigo; left:0px; top:0px;}
-    100% {border-color: violet; left:0px; top:0px;}
+    14.3% {border-color: red;}
+    28.6% {border-color: orange;}
+    42.9% {border-color: yellow;}
+    57.1% {border-color: green;}
+    71.4% {border-color: blue;}
+    85.7% {border-color: indigo;}
+    100% {border-color: violet;}
 }
 .me:hover {
     cursor: pointer;
